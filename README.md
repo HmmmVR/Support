@@ -7,6 +7,9 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
+Helper classes for all types and a in general. The type classes goal is to have a consitent and easy way
+of data manipulation, the result will be saved in an instance.
+
 ## Install
 
 Via Composer
